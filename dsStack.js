@@ -46,4 +46,6 @@ stack1.push(40)
 stack1.printStack()
 stack1.pop()
 console.log("after pop")
+
 stack1.printStack()
+ 
