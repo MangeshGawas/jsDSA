@@ -1,0 +1,1 @@
+console.log("India WIn the world cup")
